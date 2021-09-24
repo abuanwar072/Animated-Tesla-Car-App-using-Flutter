@@ -1,16 +1,17 @@
-# tesla_animated_app
+# Animated Tesla App Conect using Flutter
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/P629-Z3py1Y)
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-A few resources to get you started if this is your first Flutter project:
+This video is for those who want to master Flutter animation. In total there will be four episodes and this is the first one, where you will learn how to create an animated tesla car app using Flutter that works both android and iOS. Users can unlock any door, check battery status also control the air cooler temperature and check the psi of the tires.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this hole tutorial, we will cover how to use ImplicitlyAnimatedWidge and how to use multiple AnimationController on AnimatedBuilder. How to change curve, also update the AnimatedBuilder with notifyListeners method, and more!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Animated Tesla App Conect Final UI
+
+![Preview](/gif.gif)
+
+![App UI](/ui.png)
